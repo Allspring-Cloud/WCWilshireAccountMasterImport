@@ -1,0 +1,24 @@
+* text=auto !eol
+/FortifyWilshireAccountMasterImport.bat -text
+InstallWilshireAcctMasterImport/Include/WellsCapConfigInstaller2012.exe -text
+InstallWilshireAcctMasterImport/Include/WellsCapConfigInstaller2012.exe.config -text
+InstallWilshireAcctMasterImport/Include/bcp.app.config -text
+InstallWilshireAcctMasterImport/Include/dev.app.config -text
+InstallWilshireAcctMasterImport/Include/prod.app.config -text
+InstallWilshireAcctMasterImport/Include/uat.app.config -text
+InstallWilshireAcctMasterImport/InstallWilshireAcctMasterImport.vdproj -text
+/WilshireAccountMasterImport.sln -text
+WilshireAccountMasterImport/Constants.cs -text
+WilshireAccountMasterImport/DataAccess/AccountMasterDAO.cs -text
+WilshireAccountMasterImport/FileHandlers/AccountMasterFileHandler.cs -text
+WilshireAccountMasterImport/Parsers/AccountMasterFileParser.cs -text
+WilshireAccountMasterImport/Program.cs -text
+WilshireAccountMasterImport/Properties/AssemblyInfo.cs -text
+WilshireAccountMasterImport/Records/AccountMasterRecord.cs -text
+WilshireAccountMasterImport/Reports/ExceptionEntry.cs -text
+WilshireAccountMasterImport/Reports/ExceptionReport.cs -text
+WilshireAccountMasterImport/Reports/StatusEntry.cs -text
+WilshireAccountMasterImport/Reports/StatusReport.cs -text
+WilshireAccountMasterImport/WilshireAccountMasterImport.csproj -text
+WilshireAccountMasterImport/app.config -text
+/WilshireAccountMasterImportBuildDocument.doc -text
