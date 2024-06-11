@@ -11,8 +11,8 @@
 		<add key="FromLocation" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\inbound"></add>
 		<add key="FailedLocation" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\inbound\Failed"></add>
 		<add key="ArchiveLocation" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\inbound\archive"></add>
-		<add key="ExceptionReportPath" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\log\ExceptionReport"></add>
-		<add key="ExceptionReportPathUNC" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\log\ExceptionReport"></add>
+		<add key="ExceptionReportPath" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\outbound\ExceptionReport"></add>
+		<add key="ExceptionReportPathUNC" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\outbound\ExceptionReport"></add>
 		<!-- File-->
 		<add key="SetDataPath" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\inbound"></add>
 		<add key="SetArchivePath" value="\\app-ia.awsad.allspringglobal.com\dev\wcc\log\Archive"></add>
